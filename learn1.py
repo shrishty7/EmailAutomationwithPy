@@ -41,8 +41,8 @@ print('Composing Email...')
 #Update your Email details
 SERVER = 'smtp.gmail.com' #Your smtp server
 PORT = 587 #Your port number
-FROM = 'shrishty.jain01@gmail.com'
-TO = 'shrishty.jain01@gmail.com'
+FROM = ''
+TO = ''
 PASS = ''
 
 
